@@ -1,0 +1,7 @@
+#tkinter
+pygame
+keyboard
+pyaudio
+numpy
+pyopengl
+cython

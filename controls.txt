@@ -1,0 +1,11 @@
+
+#\/\/\/\/ this is only to edit
+pygame.K_w: ControllerBase.UP  #<< editing this will destroy the keyboard 
+pygame.K_a: ControllerBase.LEFT
+pygame.K_s: ControllerBase.DOWN
+pygame.K_d: ControllerBase.RIGHT
+pygame.K_g: ControllerBase.SELECT
+pygame.K_h: ControllerBase.START
+pygame.K_l: ControllerBase.B
+pygame.K_p: ControllerBase.A
+            
